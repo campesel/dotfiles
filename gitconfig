@@ -1,0 +1,12 @@
+[user]
+	name = Luca Campese
+	email = me@lucacampese.net
+[core]
+	editor = vim
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
+[push]
+	default = simple
